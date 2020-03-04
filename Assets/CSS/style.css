@@ -1,0 +1,43 @@
+nav p {
+  margin: 0;
+}
+
+body {
+  font-family: 'Cabin';
+}
+
+.hero {
+  background-image: url('../img/hero-image.png');
+  background-repeat: no-repeat;
+  margin-top: 4rem;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.nombre {
+  padding-top: 10rem;
+}
+
+hr {
+  width: 12rem;
+}
+
+.logos_trabajo {
+  max-width:100%;
+  height: 5rem;
+  padding-left: 4.5rem;
+}
+
+.trabajos {
+
+background-color: #373A3C;
+
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.nombre p {
+  width: 58rem;
+}
